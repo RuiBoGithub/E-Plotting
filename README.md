@@ -3,5 +3,5 @@ This library aims to create a universal template to postprocess EnergyPlus outpu
 * Energy use plotting
 * IEQ plotting
 * Validation analysis across different time scales
-> Error bar
+> Error bar <br>
 > Error metric calculation
